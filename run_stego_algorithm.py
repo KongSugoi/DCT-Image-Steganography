@@ -16,7 +16,7 @@ import data_embedding as stego
 #================================#
 
 NUM_CHANNELS = 3
-COVER_IMAGE_FILEPATH  = "./your_carrier_image.png" # Choose your cover image (PNG)
+COVER_IMAGE_FILEPATH  = "./cover_image.png" # Choose your cover image (PNG)
 STEGO_IMAGE_FILEPATH  = "./stego_image.png"
 SECRET_MESSAGE_STRING = "Input your secret message here"
 
